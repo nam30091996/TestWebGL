@@ -1,0 +1,7 @@
+<IfModule mod_mime.c>
+
+# The following line improves loading performance for uncompressed builds
+AddType application/wasm .wasm
+
+
+</IfModule>
